@@ -1,0 +1,7 @@
+It's worth noting that awhile "Linux" is often used to refer to the entire operating system, it technically refers to just the kernel. The complete operating systems that use the Linux kernel are more accurately called [[Linux distributions]], or "distros"
+
+A linux system is divided into three main parts:
+- Hardware - This includes the physical components of your computer, such as the CPU, memory, and storage devices
+- Linux Kernel - As the core of the operating system, the kernel manages the hardware and facilitates communication between software and hardware.
+- User Space - This is the environment where you, the user, interect with the system through applications and command-lin interfaces
+

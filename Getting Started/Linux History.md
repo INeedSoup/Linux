@@ -1,0 +1,6 @@
+- In 1969 Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later, in 1973 rewritten in the C programming language 
+- In 1983 Richard Stallman initiated the GNU (a recursive acronym for "GNU's NOT UNIX") project
+- In 1985 GNU General Public License is introduced
+- In 1990 GNU kernel "Hurd" remains incomplete
+- In 1991 Linux Torvalds starts developing the [[Linux Kernel]]
+- In 1992 Linux released under GPL -> GNU/Linux ecosystem begins

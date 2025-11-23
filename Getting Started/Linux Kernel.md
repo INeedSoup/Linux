@@ -1,0 +1,1 @@
+The kernel is the core component of an operating system. It acts as a bridge, allowing the hardware to communicate with the software. The kernel manages system resources, such as the CPU, memory, and peripheral devices. It Essentially controls everything on laptop 

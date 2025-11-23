@@ -1,0 +1,9 @@
+A Linux distribution bundles the Linux kernel with a collection of software, such as system utilities, libraries, and applications. It often includes a package manager for installing and managing software, and a desktop environment for the GUI. Essentially, a distro is a complete, ready-to-use operating system built around the kernel.
+
+Key Factors to Consider while choosing a Linux distro:
+- Experience Level: For beginner-friendly use [[Ubuntu]], [[Linux Mint]], for advanced users more customizable distros like [[Arch Linux]] or [[Gentoo]].
+- Desktop Environment: This defines the look and feel of your system. Popular options include GNOME, KDE Plasma, and XFCE, It's wise to check if your chosen environment supports modern display technologies like Wayland, which can be important for gaming, multi-monitor setups, or features like Variable Refresh Rate and HDR. 
+- Package Management: Distros use package managers to install, update, and remove software. the two main families are [[Debian]]-based (using apt and .deb files) and [[RHEL]]-based (using dnf or yum and .rpm files). Though there are universal package formats like Flatpak and Snap
+- Community and Support: A large community means more tutorials, forums, and document are available if you run into problems
+
+Some options that were not mentioned earlier [[Fedora]], [[openSUSE]]

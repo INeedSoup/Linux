@@ -1,0 +1,3 @@
+A key aspect of **Linux Mint is that it is based on Ubuntu**. Specifically, it uses the Long-Term Support (LTS) releases of Ubuntu as its foundation. This means that any system where **Linux Mint based on Ubuntu** is installed benefits from a massive, stable software repository and excellent hardware support. Users have access to the same vast collection of packages available to Ubuntu users.
+
+Since **Linux Mint is based on Ubuntu**, it utilizes the Debian package management system. This means you will use tools like APT (Advanced Package Tool) to install, update, and remove software. Software packages come in the `.deb` format, making it simple to manage applications through the command line or the graphical Software Manager.
