@@ -80,7 +80,3 @@ The quick brown
 - Extracting columns from CSV, TSV, or logs    
 - Pulling out specific character ranges    
 - Cleaning or preprocessing text before passing it to other commands    
-
----
-
-If you want, I can add notes for `awk`, `sed`, or other text processing tools next.
